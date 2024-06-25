@@ -1,0 +1,17 @@
+/__tests__/__image_snapshots__/**/__diff_output__
+/.env
+/*.tgz
+/coverage
+/debug.log
+/gh-pages
+/lerna-debug.log
+/node_modules
+/tarball.zip
+
+# Do not commit binaries
+/chromedriver*
+chromedriver.exe
+
+/image-snapshots.zip
+/.vs
+.DS_Store
